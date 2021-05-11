@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197330028678",
+    "firebase_url": "https://comsci210tracker-default-rtdb.firebaseio.com",
+    "project_id": "comsci210tracker",
+    "storage_bucket": "comsci210tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197330028678:android:8a19b3d451abfe51d56907",
+        "android_client_info": {
+          "package_name": "com.example.ourtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197330028678-vth43e96hso604urhb8cmk3t69i8csq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ourtracker",
+            "certificate_hash": "05848f9f811e515291a8cbfee6db55ddab4ac55a"
+          }
+        },
+        {
+          "client_id": "197330028678-jqv72k1j4fc8pu0r6k8chcu8j7ap7i39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoAhytwTOSXlBbQyR2Fkyw2YYTO0qoVKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197330028678-jqv72k1j4fc8pu0r6k8chcu8j7ap7i39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
